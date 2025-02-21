@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on my CompTIA A+ certification, and I hope to earn the complete trifecta!<br>-
+- 🔭 I’m currently working on my CompTIA A+ certification, and I hope to earn the complete trifecta!<br>
 - 🌱 I’m currently learning basic programming/scripting, IT fundamentals, networking, cybersecurity, etc<be>
 - 🤔 I’m looking for help with learning the basics as well as important programming skills<be>
 - 📫 How to reach me: email + Discord (same username!)<be>
