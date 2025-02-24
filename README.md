@@ -1,9 +1,9 @@
 # 💫 About Me:
-- 🔭 I’m currently working on my CompTIA A+ certification, and I hope to earn the complete trifecta!<br>
-- 🌱 I’m currently learning basic programming/scripting, IT fundamentals, networking, cybersecurity, etc<be>
+- 🔭 I am a second-year Business Information Systems major, currently working on my CompTIA A+ certification!<br>
+- 🌱 I’m currently learning basic programming/scripting, networking, cybersecurity, basic VMware, etc<be>
 - 🤔 I’m looking for help with learning the basics as well as important programming skills<be>
-- 📫 How to reach me: email + Discord (same username!)<be>
-- 😄 Pronouns: he/him/they
+- 📫 How to reach me: Email, Discord @somemoepho <be>
+- 😄 Pronouns: he/him/any
 
 
 ## 🌐 Socials:
